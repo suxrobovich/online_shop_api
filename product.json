@@ -1,0 +1,8 @@
+{
+    "category": 1,
+    "name": "iPhone 15",
+    "description": "Новый смартфон Apple",
+    "price": "12000000.00",
+    "image": "https://example.com/iphone.jpg",
+    "stock": 10
+}
